@@ -1,8 +1,4 @@
-markdown-it-py==3.0.0
-mdurl==0.1.2
-rich==14.0.0
-pygments==2.19.1
-streamlit
-tensorflow
-numpy
-Pillow
+streamlit>=1.32.0
+tensorflow>=2.11.0
+numpy>=1.19.5
+Pillow>=8.0.0
